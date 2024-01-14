@@ -1,6 +1,6 @@
 <h1 align="center">Hey! Vidit Purohit here👋</h1>
 <img align="right" alt="Coding" width="300" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parag7720&label=Profile%20views&color=0e75b6&style=flat" alt="parag7720" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vidit01purohit&label=Profile%20views&color=0e75b6&style=flat" alt="vidit01purohit" /> </p>
 
 - 🎓Computer Science Undergraduate at MANIT Bhopal
 
