@@ -7,18 +7,16 @@
 - 🌱Always ready to learn & contribute
 - 🧑‍💻Passionate about coding and technology from a young age
 - 💻Self-taught programmer with a strong drive to learn and explore new concepts
-- 🤹Proficient in multiple programming languages, such as C++, JavaScript, and C
-- 🎢Skilled in web development, including front-end (HTML/CSS)
+- 🤹Proficient in multiple programming languages, such as C/C++, JavaScript, Python etc.
+- 🎢Skilled in web development and machine learning 
 - 💡Enjoys working in a team environment, collaborating with others to develop innovative software solutions
 - 📫Reach me at **vidit01purohit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/parag-mahajan-b05991223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LnkdIn" height="30" width="40" /></a>
-<a href="https://www.instagram.com/__parag__77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__parag77__" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/paragmahajan7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/paragmahajan7" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/parag077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/parag077" height="30" width="40" /></a>
-<a href="https://leetcode.com/7paragmahajan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/7paragmahajan/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vidit-purohit-36b538231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LnkdIn" height="30" width="40" /></a>
+<a href="https://www.instagram.com/__parag__77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vidit01purohit" height="30" width="40" /></a>
+<a href="https://leetcode.com/vidit01purohit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vidit01purohit/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
