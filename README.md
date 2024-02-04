@@ -19,4 +19,4 @@
 <a href="https://leetcode.com/vidit01purohit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vidit01purohit/" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidit01purohit&show_icons=true&locale=en&layout=compact" alt="parag7720" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidit01purohit&show_icons=true&locale=en&layout=compact" alt="vidit01purohit" /></p>
